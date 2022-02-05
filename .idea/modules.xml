@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/admin-tools.iml" filepath="$PROJECT_DIR$/.idea/admin-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bj-backend-api/.idea/bj-backend-api.iml" filepath="$PROJECT_DIR$/../bj-backend-api/.idea/bj-backend-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bj-front/.idea/bj-front.iml" filepath="$PROJECT_DIR$/../bj-front/.idea/bj-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../e-statyw/.idea/e-statyw.iml" filepath="$PROJECT_DIR$/../e-statyw/.idea/e-statyw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../horeca-front/.idea/horeca-front.iml" filepath="$PROJECT_DIR$/../horeca-front/.idea/horeca-front.iml" />
+    </modules>
+  </component>
+</project>
